@@ -1,0 +1,44 @@
+h2{
+text-align:left;
+color : white;
+background-color:#484A0F;
+ }
+
+h3{
+text-align:center;
+}
+
+hr {
+color:black;
+height:3px;
+ background-color: black;
+}
+
+div{
+background-color:black;
+position:absolute;
+width:90%;
+}
+
+a{
+text-decoration:none;
+color: black;
+font-size:100%;
+margin:2px;
+dispaly:inline-block;
+text-align:center;
+background-color:#DDD9BD;
+}
+
+.left_image{
+float:left;
+}
+
+.right_image{
+float:right;
+}
+
+.margin{
+margin: 1cm 7.8cm 2cm 1.6cm
+}
+

@@ -1,0 +1,62 @@
+.container {
+            width: 80%;
+            height: 90vh;
+            display: flex;
+			margin: 0 auto;
+        }
+        .left-section {
+            flex: 2;
+            padding: 20px; 
+			
+        }
+        .middle-section {
+            flex: 1.5;
+            padding: 20px;
+			
+        }
+        .right-section {
+            flex: 2;
+            padding: 20px;
+			
+        }
+		input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #FCF5DB;
+			}
+		textarea {
+		background-color:  #FCF5DB; 
+		}
+
+h2{
+text-align:left;
+color : white;
+background-color:#484A0F;
+ }
+
+h3{
+text-align:center;
+}
+
+hr {
+color:black;
+height:3px;
+ background-color: black;
+}
+
+.div1{
+background-color:black;
+position:absolute;
+width:100%;
+bottom:0;
+}
+
+.a1{
+text-decoration:none;
+color: black;
+font-size:100%;
+margin:2px;
+dispaly:inline-block;
+text-align:center;
+background-color:#DDD9BD;
+}

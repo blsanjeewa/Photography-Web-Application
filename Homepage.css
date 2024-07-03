@@ -1,0 +1,48 @@
+
+h2{
+text-align:left;
+color : white;
+background-color:#484A0F;
+ }
+
+h3{
+text-align:center;
+}
+
+.bdy{
+background-image : url("home.jpg");
+background-repeat:no-repeat;
+background-size:100% 100%;
+background-position: center;
+}
+.font{
+letter-spacing:2px;
+text-align:center;
+text-decoration:none;
+font-size:40px;
+color: white;
+font-family:"Times New Roman",Times,serif;
+position : absolute;
+top:35%;
+width:100%;
+}
+
+div{
+background-color:black;
+position:absolute;
+bottom:0;
+width:90%;
+}
+
+a{
+text-decoration:none;
+color: black;
+font-size:100%;
+margin:2px;
+dispaly:inline-block;
+text-align:center;
+background-color:#DDD9BD;
+}
+
+
+
